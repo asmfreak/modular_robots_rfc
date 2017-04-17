@@ -1,0 +1,22 @@
+site_name: Спецификации на Trubot
+docs_dir: 'spec'
+theme: 'material'
+extra:
+  palette:
+    primary: 'orange'
+    accent: 'light green'
+markdown_extensions:
+    - pymdownx.tasklist(custom_checkbox=true)
+pages:
+    - 'Техническая документация Trubot' : index.md
+    - 'Заготовки' :
+        - '3/УПММР' : '3/УПММР.md'
+    - 'Черновики' :
+        - '1/ПММВ' : '1/ПММВ.md'
+#    - 'Стабильные спецификации' :
+#    - 'Устаревшие спецификации' :
+#    - 'Исторические спецификации' :
+    - 'digistan.org' :
+            - '1/КОСС' : 'digistan.org/1/КОСС.md'
+    - 'rfc.zeromq.org' :
+        - '42/C4' : 'rfc.zeromq.org/42/C4.md'
