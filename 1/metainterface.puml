@@ -1,0 +1,67 @@
+@startuml
+!definelong cmd(name, desc, args, returns)
+package name [
+desc
+====
+args
+====
+returns
+]
+!enddefinelong
+
+!definelong arg(name, type, unit, desc)
+type name [unit] desc
+!enddefinelong
+
+!definelong farg(name, type, unit, desc)
+----
+farg(name, type, unit, desc)
+!enddefinelong
+
+
+frame metainterface {
+card metainterface_desc [
+    Это длинное описание метаинтерфейса
+    Многострочное
+
+]
+package  ping [
+Эта команда используется
+для обнаружения модуля.
+====
+====
+arg(//status//, , , умолчательное значение ok)
+]
+package metadata[
+Команда возвращает
+метаданные модуля
+====
+====
+метаданные модуля
+]
+package found_module[
+Подающим эту команду супервизором
+найден модуль c метаданными "metadata".
+====
+arg(metadata, , , метаданные модуля)
+====
+arg(status, , , умолчательное значение ok)
+]
+package shutdown [
+После получения этой команды драйвер
+метаинтерфейса должен начать процедуру
+безопасного отключения питания.
+====
+====
+arg(stats, , , умолчательное значение ok)
+arg(estimated_time, , секунды, необходимое модулю\nвремя для легального отключения)
+]
+package known_modules [
+====
+====
+arg(addresses, список строк, , известные\n метаинтерфейсу IP-адреса других модулей)
+]
+
+}
+
+@enduml

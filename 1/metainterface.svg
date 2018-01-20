@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="375px" preserveAspectRatio="none" style="width:1229px;height:375px;" version="1.1" viewBox="0 0 1229 375" width="1229px" zoomAndPan="magnify"><defs><filter height="300%" id="fnsl797afmnq7" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--cluster metainterface--><rect fill="#FFFFFF" filter="url(#fnsl797afmnq7)" height="352" style="stroke: #000000; stroke-width: 2.0;" width="1208" x="14" y="16"/><path d="M137,17 L137,25.2969 L127,35.2969 L14,35.2969 " fill="none" style="stroke: #000000; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="113" x="17" y="29.9951">metainterface</text><!--entity metainterface_desc--><rect fill="#FEFECE" filter="url(#fnsl797afmnq7)" height="54.8906" style="stroke: #000000; stroke-width: 1.5;" width="322" x="38" y="67.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="302" x="48" y="83.4951">Это длинное описание метаинтерфейса</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="115" x="48" y="99.792">Многострочное</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="52" y="116.0889"/><!--entity ping--><polygon fill="#FEFECE" filter="url(#fnsl797afmnq7)" points="395.5,43,432.5,43,439.5,65.2969,706.5,65.2969,706.5,147.1875,395.5,147.1875,395.5,43" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="395.5" x2="439.5" y1="65.2969" y2="65.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="31" x="399.5" y="58.9951">ping</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="200" x="405.5" y="85.292">Эта команда используется</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="195" x="405.5" y="101.5889">для обнаружения модуля.</text><line style="stroke: #000000; stroke-width: 1.0;" x1="396.5" x2="705.5" y1="104.8906" y2="104.8906"/><line style="stroke: #000000; stroke-width: 1.0;" x1="396.5" x2="705.5" y1="106.8906" y2="106.8906"/><line style="stroke: #000000; stroke-width: 1.0;" x1="396.5" x2="705.5" y1="112.8906" y2="112.8906"/><line style="stroke: #000000; stroke-width: 1.0;" x1="396.5" x2="705.5" y1="114.8906" y2="114.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="42" x="411.5" y="129.8857">status</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="223" x="457.5" y="129.8857">[] умолчательное значение ok</text><!--entity metadata--><polygon fill="#FEFECE" filter="url(#fnsl797afmnq7)" points="741.5,43,816.5,43,823.5,65.2969,936.5,65.2969,936.5,147.1875,741.5,147.1875,741.5,43" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="741.5" x2="823.5" y1="65.2969" y2="65.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="69" x="745.5" y="58.9951">metadata</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="160" x="751.5" y="85.292">Команда возвращает</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="153" x="751.5" y="101.5889">метаданные модуля</text><line style="stroke: #000000; stroke-width: 1.0;" x1="742.5" x2="935.5" y1="104.8906" y2="104.8906"/><line style="stroke: #000000; stroke-width: 1.0;" x1="742.5" x2="935.5" y1="106.8906" y2="106.8906"/><line style="stroke: #000000; stroke-width: 1.0;" x1="742.5" x2="935.5" y1="112.8906" y2="112.8906"/><line style="stroke: #000000; stroke-width: 1.0;" x1="742.5" x2="935.5" y1="114.8906" y2="114.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="153" x="757.5" y="129.8857">метаданные модуля</text><!--entity found_module--><polygon fill="#FEFECE" filter="url(#fnsl797afmnq7)" points="22,223.5,130,223.5,137,245.7969,376,245.7969,376,343.9844,22,343.9844,22,223.5" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="22" x2="137" y1="245.7969" y2="245.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="102" x="26" y="239.4951">found_module</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="289" x="32" y="265.792">Подающим эту команду супервизором</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="324" x="32" y="282.0889">найден модуль c метаданными "metadata".</text><line style="stroke: #000000; stroke-width: 1.0;" x1="23" x2="375" y1="285.3906" y2="285.3906"/><line style="stroke: #000000; stroke-width: 1.0;" x1="23" x2="375" y1="287.3906" y2="287.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="240" x="38" y="302.3857">metadata [] метаданные модуля</text><line style="stroke: #000000; stroke-width: 1.0;" x1="23" x2="375" y1="309.6875" y2="309.6875"/><line style="stroke: #000000; stroke-width: 1.0;" x1="23" x2="375" y1="311.6875" y2="311.6875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="269" x="38" y="326.6826">status [] умолчательное значение ok</text><!--entity shutdown--><polygon fill="#FEFECE" filter="url(#fnsl797afmnq7)" points="410.5,207,484.5,207,491.5,229.2969,807.5,229.2969,807.5,360.0781,410.5,360.0781,410.5,207" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="410.5" x2="491.5" y1="229.2969" y2="229.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="68" x="414.5" y="222.9951">shutdown</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="304" x="420.5" y="249.292">После получения этой команды драйвер</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="331" x="420.5" y="265.5889">метаинтерфейса должен начать процедуру</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="256" x="420.5" y="281.8857">безопасного отключения питания.</text><line style="stroke: #000000; stroke-width: 1.0;" x1="411.5" x2="806.5" y1="285.1875" y2="285.1875"/><line style="stroke: #000000; stroke-width: 1.0;" x1="411.5" x2="806.5" y1="287.1875" y2="287.1875"/><line style="stroke: #000000; stroke-width: 1.0;" x1="411.5" x2="806.5" y1="293.1875" y2="293.1875"/><line style="stroke: #000000; stroke-width: 1.0;" x1="411.5" x2="806.5" y1="295.1875" y2="295.1875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="260" x="426.5" y="310.1826">stats [] умолчательное значение ok</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="355" x="426.5" y="326.4795">estimated_time [секунды] необходимое модулю</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="258" x="426.5" y="342.7764">время для легального отключения</text><!--entity known_modules--><polygon fill="#FEFECE" filter="url(#fnsl797afmnq7)" points="842,239.5,962,239.5,969,261.7969,1214,261.7969,1214,327.3906,842,327.3906,842,239.5" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="842" x2="969" y1="261.7969" y2="261.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="114" x="846" y="255.4951">known_modules</text><line style="stroke: #000000; stroke-width: 1.0;" x1="843" x2="1213" y1="268.7969" y2="268.7969"/><line style="stroke: #000000; stroke-width: 1.0;" x1="843" x2="1213" y1="270.7969" y2="270.7969"/><line style="stroke: #000000; stroke-width: 1.0;" x1="843" x2="1213" y1="276.7969" y2="276.7969"/><line style="stroke: #000000; stroke-width: 1.0;" x1="843" x2="1213" y1="278.7969" y2="278.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="269" x="858" y="293.792">список строк addresses [] известные</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="326" x="862" y="310.0889">метаинтерфейсу IP-адреса других модулей</text><!--link metainterface_desc to ping--><!--link ping to metadata--><!--link metainterface_desc to found_module--><!--link found_module to shutdown--><!--link shutdown to known_modules--><!--
+@startuml
+
+
+
+
+frame metainterface {
+card metainterface_desc [
+    Это длинное описание метаинтерфейса
+    Многострочное
+
+]
+package  ping [
+Эта команда используется
+для обнаружения модуля.
+====
+====
+ //status// [] умолчательное значение ok
+]
+package metadata[
+Команда возвращает
+метаданные модуля
+====
+====
+метаданные модуля
+]
+package found_module[
+Подающим эту команду супервизором
+найден модуль c метаданными "metadata".
+====
+ metadata [] метаданные модуля
+====
+ status [] умолчательное значение ok
+]
+package shutdown [
+После получения этой команды драйвер
+метаинтерфейса должен начать процедуру
+безопасного отключения питания.
+====
+====
+ stats [] умолчательное значение ok
+ estimated_time [секунды] необходимое модулю\nвремя для легального отключения
+]
+package known_modules [
+====
+====
+список строк addresses [] известные\n метаинтерфейсу IP-адреса других модулей
+]
+
+}
+
+@enduml
+
+PlantUML version 1.2017.12(Wed Apr 26 18:06:36 EET 2017)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 1.8.0_121-b13
+Operating System: Linux
+OS Version: 4.10.13-1-ARCH
+Default Encoding: UTF-8
+Language: ru
+Country: RU
+--></g></svg>
