@@ -1,4 +1,4 @@
-site_name: Спецификации на Trubot
+site_name: Спецификации на АММОР
 docs_dir: 'spec'
 theme: 'material'
 extra:
@@ -8,7 +8,7 @@ extra:
 markdown_extensions:
     - pymdownx.tasklist(custom_checkbox=true)
 pages:
-    - 'Техническая документация Trubot' : index.md
+    - 'Общая страница' : index.md
     - 'Заготовки' :
         - '3/УПММР' : '3/УПММР.md'
         - '4/ОСС' : '4/ОСС.md'
@@ -17,7 +17,3 @@ pages:
 #    - 'Стабильные спецификации' :
 #    - 'Устаревшие спецификации' :
 #    - 'Исторические спецификации' :
-    - 'digistan.org' :
-            - '1/КОСС' : 'digistan.org/1/КОСС.md'
-    - 'rfc.zeromq.org' :
-        - '42/C4' : 'rfc.zeromq.org/42/C4.md'
