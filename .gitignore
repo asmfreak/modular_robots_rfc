@@ -1,3 +1,4 @@
 *.pd
 *docx*
-site/
+public
+site

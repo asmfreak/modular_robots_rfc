@@ -1,0 +1,15 @@
+image: python:3.7-alpine
+
+before_script:
+  - pip install pipenv
+  - pipenv install
+
+pages:
+  script:
+  - pipenv run mkdocs build
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
+
